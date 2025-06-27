@@ -41,19 +41,12 @@ This project analyzes Uber trip data using clustering techniques to uncover patt
 
 ---
 
-## 📸 Example Output
-
-*(Add this if you have a plot)*
-
-![Clusters](images/uber_clusters.png)
-
----
-
 ## 🚀 How to Run
 
 1. Open the notebook in Jupyter or VS Code
 2. Run all cells step-by-step
 3. View clustering results and visualizations
+![Screenshot 2025-06-16 224401](https://github.com/user-attachments/assets/a38dbbe1-0ca0-4852-bf0f-636b2d197984)
 
 ---
 
